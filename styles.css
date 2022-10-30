@@ -70,7 +70,8 @@ ul {
     border-radius: 6px;
 }
 
-a:link { text-decoration: none; }
+a:link { text-decoration: none;
+         color: #F9FAF8; } /*had to add this to show text as white for unclicked link*/
 a:visited { text-decoration: none; }
 a:hover { text-decoration: underline; }
 a:active { text-decoration: underline; } /*these show when you hover over a button it will underline*/
